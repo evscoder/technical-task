@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf14b381.css",
-    "main.js": "/static/js/main.5bbacd26.js",
-    "static/media/bg.jpg": "/static/media/bg.ae1c57a5557e9ce4bbb0.jpg",
-    "static/media/han-solo.jpg": "/static/media/han-solo.84705bac66e252072c67.jpg",
-    "static/media/like-filled.svg": "/static/media/like-filled.d3798c3b9f8f2e6805c6b31f8615397a.svg",
-    "static/media/like-grey.svg": "/static/media/like-grey.104d7fa95e36c483908db2d211f96e3f.svg",
-    "static/media/like-empty.svg": "/static/media/like-empty.dcb8a968baba15cd0a67dfd683fe3ec0.svg",
-    "index.html": "/index.html",
-    "main.bf14b381.css.map": "/static/css/main.bf14b381.css.map",
-    "main.5bbacd26.js.map": "/static/js/main.5bbacd26.js.map"
+    "main.css": "/react-technical-task/static/css/main.bf14b381.css",
+    "main.js": "/react-technical-task/static/js/main.cadb3904.js",
+    "static/media/bg.jpg": "/react-technical-task/static/media/bg.ae1c57a5557e9ce4bbb0.jpg",
+    "static/media/han-solo.jpg": "/react-technical-task/static/media/han-solo.84705bac66e252072c67.jpg",
+    "static/media/like-filled.svg": "/react-technical-task/static/media/like-filled.d3798c3b9f8f2e6805c6b31f8615397a.svg",
+    "static/media/like-grey.svg": "/react-technical-task/static/media/like-grey.104d7fa95e36c483908db2d211f96e3f.svg",
+    "static/media/like-empty.svg": "/react-technical-task/static/media/like-empty.dcb8a968baba15cd0a67dfd683fe3ec0.svg",
+    "index.html": "/react-technical-task/index.html",
+    "main.bf14b381.css.map": "/react-technical-task/static/css/main.bf14b381.css.map",
+    "main.cadb3904.js.map": "/react-technical-task/static/js/main.cadb3904.js.map"
   },
   "entrypoints": [
     "static/css/main.bf14b381.css",
-    "static/js/main.5bbacd26.js"
+    "static/js/main.cadb3904.js"
   ]
 }
