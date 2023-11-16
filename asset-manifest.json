@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-technical-task/static/css/main.5f70143f.css",
-    "main.js": "/react-technical-task/static/js/main.6920942c.js",
+    "main.css": "/react-technical-task/static/css/main.66d2c688.css",
+    "main.js": "/react-technical-task/static/js/main.2b2145fd.js",
     "static/media/han-solo.jpg": "/react-technical-task/static/media/han-solo.84705bac66e252072c67.jpg",
     "static/media/bg.jpg": "/react-technical-task/static/media/bg.3a158c302af4bb11ae7e.jpg",
     "index.html": "/react-technical-task/index.html",
-    "main.5f70143f.css.map": "/react-technical-task/static/css/main.5f70143f.css.map",
-    "main.6920942c.js.map": "/react-technical-task/static/js/main.6920942c.js.map"
+    "main.66d2c688.css.map": "/react-technical-task/static/css/main.66d2c688.css.map",
+    "main.2b2145fd.js.map": "/react-technical-task/static/js/main.2b2145fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f70143f.css",
-    "static/js/main.6920942c.js"
+    "static/css/main.66d2c688.css",
+    "static/js/main.2b2145fd.js"
   ]
 }
