@@ -1,0 +1,91 @@
+:root {
+    --grey-color: #313439;
+
+    --font-size-base: 16px;
+}
+
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+}
+
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+@-ms-viewport {
+    width: auto;
+}
+
+html,
+body {
+    -webkit-overflow-scrolling: touch;
+}
+
+html {
+    height: 100%;
+    font-size: var(--font-size-base);
+}
+
+body {
+    display: grid;
+    grid-template-columns: 1fr;
+    min-height: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: #fff;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+#root,
+.App {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+a,
+button {
+    cursor: pointer;
+}
+
+button {
+    -webkit-appearance: none;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    box-shadow: none;
+    color: inherit;
+}
+
+img,
+embed,
+video {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+    line-height: 1;
+    border: none;
+}
+
+svg {
+    display: inline-block;
+    line-height: 1;
+}
+
+svg:not([fill="none"]) {
+    fill: currentColor;
+}
+
+#root-svg-symbols-element {
+    border: none!important;
+    clip: rect(0 0 0 0) !important;
+    height: 1px !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    position: absolute !important;
+    width: 1px !important;
+}

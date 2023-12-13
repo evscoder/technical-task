@@ -1,0 +1,79 @@
+.comments {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    padding: 32px 0 64px;
+    background-attachment: fixed;
+}
+
+.bg {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    background-size: cover;
+    background-position: top center;
+    pointer-events: none;
+}
+
+.errorHelper {
+    font-weight: 500;
+    color: red;
+}
+
+.container {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+.comments .container {
+    max-width: 592px;
+}
+
+.stat {
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    padding: 20px 0 10px;
+    margin-bottom: 32px;
+    border-bottom: 1px solid #767676;
+    color: #fff;
+    backdrop-filter: blur(3px);
+    font-weight: 700;
+}
+
+.allLikes {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.items {
+    flex-grow: 1;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 32px;
+    align-items: start;
+    margin-bottom: 60px;
+}
+
+.bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.buttonLoad.load {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 200ms ease-in-out, visibility 0s 210ms;
+    pointer-events: none;
+    cursor: not-allowed;
+}
+
+.buttonLoad:disabled {
+    pointer-events: none;
+}
