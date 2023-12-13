@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-technical/static/css/main.e1410fdb.css",
-    "main.js": "/react-technical/static/js/main.585f4753.js",
-    "static/media/han-solo.jpg": "/react-technical/static/media/han-solo.84705bac66e252072c67.jpg",
-    "static/media/bg.jpg": "/react-technical/static/media/bg.3a158c302af4bb11ae7e.jpg",
-    "index.html": "/react-technical/index.html",
-    "main.e1410fdb.css.map": "/react-technical/static/css/main.e1410fdb.css.map",
-    "main.585f4753.js.map": "/react-technical/static/js/main.585f4753.js.map"
+    "main.css": "/technical-task/static/css/main.e1410fdb.css",
+    "main.js": "/technical-task/static/js/main.850f131a.js",
+    "static/media/han-solo.jpg": "/technical-task/static/media/han-solo.84705bac66e252072c67.jpg",
+    "static/media/bg.jpg": "/technical-task/static/media/bg.3a158c302af4bb11ae7e.jpg",
+    "index.html": "/technical-task/index.html",
+    "main.e1410fdb.css.map": "/technical-task/static/css/main.e1410fdb.css.map",
+    "main.850f131a.js.map": "/technical-task/static/js/main.850f131a.js.map"
   },
   "entrypoints": [
     "static/css/main.e1410fdb.css",
-    "static/js/main.585f4753.js"
+    "static/js/main.850f131a.js"
   ]
 }
