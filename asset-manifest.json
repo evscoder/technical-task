@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-technical-task/static/css/main.e1410fdb.css",
-    "main.js": "/react-technical-task/static/js/main.9840e1bc.js",
+    "main.js": "/react-technical-task/static/js/main.a1474255.js",
     "static/media/han-solo.jpg": "/react-technical-task/static/media/han-solo.84705bac66e252072c67.jpg",
     "static/media/bg.jpg": "/react-technical-task/static/media/bg.3a158c302af4bb11ae7e.jpg",
     "index.html": "/react-technical-task/index.html",
     "main.e1410fdb.css.map": "/react-technical-task/static/css/main.e1410fdb.css.map",
-    "main.9840e1bc.js.map": "/react-technical-task/static/js/main.9840e1bc.js.map"
+    "main.a1474255.js.map": "/react-technical-task/static/js/main.a1474255.js.map"
   },
   "entrypoints": [
     "static/css/main.e1410fdb.css",
-    "static/js/main.9840e1bc.js"
+    "static/js/main.a1474255.js"
   ]
 }
